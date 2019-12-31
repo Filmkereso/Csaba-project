@@ -1,0 +1,12 @@
+Teszt jegyzőkönyv 2019.12.27 09:09
+
+A teszt a következő platform használatával lett elvégezve:
+
+Böngésző: Safari webböngésző
+
+Operációs rendszer: OS X
+
+Kezdőlap: 
+
+	A kezdőlapon minden elem betöltődik. 
+	Minden funkció tesztelve lett és működik.
