@@ -1,0 +1,21 @@
+Funkcionális specifikáció
+
+Áttekintés:
+• Ebben a projektben ismertetünk egy olyan filmkeresőt, amelynek több funciója is
+van.
+• Lehet telefonon és weboldalon is filmet keresni.
+• Célunk, hogy megkönnyebbíthessük a hétköznapi keresést.
+• Többezer alkotáshoz lehet hozzáférni és ehez nem kell különleges lejátszó
+hardver, csak egy okostelefon vagy egy számitógép és persze egy stabil
+internethozzáférés.
+• A célunk,hogy a jelenlegi igényeket figyelembe véve, egy mindenki számára
+elérhető online filmkereső, amely random filmet dob fel neked, ezzel is
+megkönnyítve az esti programod.
+
+Jelenlegi helyzet:
+A megrendelő elrendelte egy olyan szolgáltatás hozzáadását, hogy regisztrálás nélkül
+vendégfelhasználóként lehessen keresni.
+
+Random filmkereső programok csupán a facebook alkalmazáson vannak, azok viszont
+egy adott filmet kötnek a profilodhoz, nem eléggé random generálás. A mi programunk
+nem függ más programtól, illetve egy filmet egyszer dob fel lehetőségek.
