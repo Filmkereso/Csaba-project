@@ -6,9 +6,7 @@
 }
 
 #poster-block > div 
-
 {
-    
     width: 80%; 
     display: block;
     margin: 0 auto;
@@ -19,15 +17,16 @@
     max-width: 100%;
 }
 
-html, body, #page-container, #popup-container {
+html, body, #page-container, #popup-container 
+{
     width: 100%;
     height: 100%;
 }
 
-html, body {
+html, body 
+{
     position: relative;
-    margin: 0;
-    
+    margin: 0; 
 }
 
 #page-container, header, main, footer
