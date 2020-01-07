@@ -56,12 +56,25 @@ html, body {
 
 #popup
 {
-    background: white;
     width: 80%;
-    height: 100%;
-    max-height: 80%;
+    padding-bottom: 40%;
     position: relative;
     overflow: hidden;
+}
+
+#popup_gomb_szoveg, #gombnyomas_utani_tartalom
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#popup_gomb_szoveg
+{
+    background: url('img/banner.png');
+    background-size: cover;
 }
 
 #poup_elso_banner_utan
@@ -72,13 +85,6 @@ html, body {
     padding: 5px;
 }
 
-#banner {
-    min-width: 100%;
-    min-height: 100%;
-    display: block;
-}
-
-
 #gombnyomas_utani_tartalom, #popup-block
 {
     width: 100%;
@@ -88,6 +94,7 @@ html, body {
 #gombnyomas_utani_tartalom
 {
     display: none;
+    background: white;
 }
 
 #pop_up_picture

@@ -69,7 +69,6 @@ $leiras= $sor['leiras'];
 <div id="popup-container">
     <div id="popup">
         <div id="popup_gomb_szoveg">
-            <img id="banner" src="img/banner.png" />
             <div id="poup_elso_banner_utan">
                 <h1>Welcome to our homepage!</h1>
                 <p> Try it the movie generator! <p>
