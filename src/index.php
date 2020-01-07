@@ -24,24 +24,20 @@ $leiras = $sor['leiras'];
     <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
-    <div id="page-container">
-        <main>  
-            <div id="poster-block"> 
-                <div> <img src="img/Joker.jpg"/> </div>
-                <div> <img src="img/Spy.jpg"/> </div>
-                <div> <img src="img/Star_wars.jpg"/> </div>
-                <div> <img src="img/TheGodfather.jpg"/> </div>
-                <div> <img src="img/SevenSamurai.jpg"/> </div>
-                <div> <img src="img/Inception.jpg"/> </div>
-                <div> <img src="img/TheFellowshipoftheRing.jpg"/> </div>
-                <div> <img src="img/TheGoodtheBadandtheUgly.jpg"/> </div>
-                <div> <img src="img/PulpFiction.jpg"/> </div>
-                <div> <img src="img/ForrestGump.jpg"/> </div>
-                <div> <img src="img/TheGodfatherII.jpg"/> </div>
-                <div> <img src="img/TheShawshankRedemption.jpg"/> </div>
-            </div>
-        </main>
-    </div> 
+    <div id="poster-block"> 
+        <div> <img src="img/Joker.jpg"/> </div>
+        <div> <img src="img/Spy.jpg"/> </div>
+        <div> <img src="img/Star_wars.jpg"/> </div>
+        <div> <img src="img/TheGodfather.jpg"/> </div>
+        <div> <img src="img/SevenSamurai.jpg"/> </div>
+        <div> <img src="img/Inception.jpg"/> </div>
+        <div> <img src="img/TheFellowshipoftheRing.jpg"/> </div>
+        <div> <img src="img/TheGoodtheBadandtheUgly.jpg"/> </div>
+        <div> <img src="img/PulpFiction.jpg"/> </div>
+        <div> <img src="img/ForrestGump.jpg"/> </div>
+        <div> <img src="img/TheGodfatherII.jpg"/> </div>
+        <div> <img src="img/TheShawshankRedemption.jpg"/> </div>
+    </div>
     <div id="popup-container">
         <div id="popup">
             <div id="popup_gomb_szoveg">
