@@ -10,3 +10,8 @@ function megjelenit()
 window.setTimeout(function() {
     document.getElementById('popup-container').style.display = 'flex';
 }, 3000);
+
+function ujratoltes()
+{
+    window.location.href = "/";
+}

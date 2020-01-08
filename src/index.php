@@ -55,6 +55,7 @@ $leiras = $sor['leiras'];
                         <div id="title"><?= $cim ?></div> 
                         <p id="year"> <?= $evszam ?></p>
                         <p id="description"><?= $leiras ?></p>
+                        <button onclick="ujratoltes()"> Give me a new movie! </button>
                     </div>
                 </div>
             </div>
