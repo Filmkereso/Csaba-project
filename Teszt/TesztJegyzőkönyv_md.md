@@ -58,7 +58,7 @@ Az alábbi funkcionális elvárások szerepelnek a funkcionális specifikációb
 | E1 | A borítóképek rendben megjelennek a kezdőlapon. | Elvárt működésMiklós Viktor |
 | E2 | A filmsorsoló ablak rendben megnyílik. | Elvárt működésMiklós Viktor |
 | E3 | A sorsoló gomb megfelelően működik, megjelenik a random film felugró ablakja, a sorsoló ablak helyén. | Elvárt működésMagó Csaba |
-| E4 |   |   |
-| E5 |   |   |
-| E6 |   |   |
-| E7 |   |   |
+| E4 | A kisorsolt film borítóképe és egyéb adatai rendben megjelennek. | Elvárt működésBátori Henrietta |
+| E5 | Az újra gomb megnyomásánál a localhost oldalra tölt be. | Hiba bejelentveBátori Henrietta |
+| E6 | A kért böngészőkön az oldal megnyílik, működik. | Elvárt működésBátori Henrietta |
+| E7 | Az oldal teljes kijelzőn szétcsúszik, egyéb kisebb, képernyőméretekben, megfelelően működik. | Hiba bejelentveBátori Henrietta |
